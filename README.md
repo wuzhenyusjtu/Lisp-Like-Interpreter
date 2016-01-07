@@ -7,6 +7,7 @@
 	/bin<br />
 	/src<br />
 		*.cpp<br />
+		*.h<br />
     	/obj<br />
 	/testcases<br />
 		InvalidTests<br />
